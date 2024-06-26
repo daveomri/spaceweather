@@ -11,3 +11,6 @@ Na webu NOAA - např. na https://www.swpc.noaa.gov/products/goes-electron-flux -
 - doplňuje jednokrokovou (zájemci i více) predikci.
 
 Při spuštění by program měl načíst aspoň 20 nejnovějších dat - je potřeba vhodně se poprat s přelomem dne (aby modelování nerestartovalo s každým novým dnem). Nezapomeňte na zapomínání (viz výše). Využít můžete třídu NiG, použitou i ve cvičeních. V podstatě jde o to využít programátorské schopnosti a nově nabyté znalosti - nic těžkého na projektu není :-)
+
+### Vypracování projektu
+Vše je zpracované v poes adresáři
